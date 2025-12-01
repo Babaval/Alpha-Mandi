@@ -224,7 +224,7 @@ docker run -p 8080:80 alpha-mandi
 
 Website available at:
 
-http://localhost:8080
+https://alpha-mandi-v1.onrender.com/
 
 ☁️ Render Deployment
 Steps:
